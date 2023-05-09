@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "yarn parcel build --no-cache ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
